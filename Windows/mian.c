@@ -6,6 +6,7 @@ int WINAPI WinMain(HINSTANCE hInstance,
 	int nCmdShow)
 //hello
 //nihao
+//ÄãºÃÂð
 {
 	WNDCLASS wc;
 	wc.cbClsExtra = 0;
